@@ -5,4 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis
-paddledetection:2.4-gpu-cuda11.2-cudnn8-latest
+zookeeper
