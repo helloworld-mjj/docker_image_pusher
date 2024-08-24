@@ -6,3 +6,4 @@ xhofe/alist:latest
 mysql
 redis
 zookeeper
+pjialin/py12306
