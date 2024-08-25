@@ -7,3 +7,4 @@ mysql
 redis
 zookeeper
 pjialin/py12306
+python:2.7.15
