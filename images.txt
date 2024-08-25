@@ -8,3 +8,5 @@ redis
 zookeeper
 pjialin/py12306
 python:2.7.15
+ticket:v1.2.004
+yinaoxiong/12306_code_server:amd64
